@@ -16,7 +16,7 @@ https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 1. Follow step 1 and 2 form: https://github.com/fatihak/InkyPi/tree/main
 2. Download the patch.sh in the root of InkyPi
 ```shell
-wget URL HERE
+wget https://raw.githubusercontent.com/EV0LV3/InkyPi-GoodDisplay/refs/heads/main/patch.sh
 ```
 3. Apply the patch
 ```shell
